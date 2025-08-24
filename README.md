@@ -30,3 +30,6 @@ Supports **basic and advanced math operations**.
    ```bash
    git clone https://github.com/danialshuib/calculator.git
    cd calculator
+
+## 👨‍💻 Author
+Created with ❤️ by Danial Shuib
