@@ -1,19 +1,32 @@
-# 🧮 Python Calculator
+# 🧮 Python Calculator  
 
-A simple calculator built with Python.  
-Supports basic operations and advanced features like powers and square roots.
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Status](https://img.shields.io/badge/Status-Complete-green)
+
+A beginner-friendly calculator built in Python.  
+Supports **basic and advanced math operations**.  
+
+---
 
 ## 🚀 Features
-- Addition, subtraction, multiplication, division
-- Power (**)
-- Square root (sqrt)
-- Quit option (q)
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division  
+- 🔢 Powers (`**`)  
+- 📐 Square root (`sqrt`)  
+- ❌ Graceful handling of division by zero  
+- 🚪 Exit option (`q`)  
+
+---
+
+## 📸 Screenshot
+<p align="center">
+  <img src="screenshot.png" width="500">
+</p>
+
+---
 
 ## ▶️ How to Run
-1. Install [Python](https://www.python.org/downloads/).
-2. Clone this repo:
+1. Install [Python](https://www.python.org/downloads/)  
+2. Clone this repo:  
    ```bash
    git clone https://github.com/danialshuib/calculator.git
-
-![screenshot](screenshot.png)
-
+   cd calculator
