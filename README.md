@@ -31,5 +31,20 @@ Supports **basic and advanced math operations**.
    git clone https://github.com/danialshuib/calculator.git
    cd calculator
 
+---
+
+## 🚀 Future Ideas
+
+Here are some improvements I’d like to add later:
+
+- [ ] Add **trigonometric functions** (sin, cos, tan).
+- [ ] Create a **GUI version** using Tkinter.
+- [ ] Build a **web version** using Flask.
+- [ ] Add **unit conversion** (cm → inch, kg → lbs, etc.).
+- [ ] Add **history/logging** of calculations.
+- [ ] Write **tests** to make sure all functions are correct.
+
+---
+
 ## 👨‍💻 Author
 Created with ❤️ by Danial Shuib
